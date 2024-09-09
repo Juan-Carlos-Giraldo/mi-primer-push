@@ -2,3 +2,7 @@
 .env
 
 librerias/
+
+.vscode/
+
+.pytest_cache/
