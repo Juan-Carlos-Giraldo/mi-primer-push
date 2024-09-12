@@ -10,7 +10,7 @@ def suma(x, y,z):
 """
 # A simple function that subtracts two numbers
 # Parameters: x, y
-# Returns: x - y
+# Returns: x - y - z
 """
 def resta(x, y, z, w):
     return x - y - z - w
