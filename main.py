@@ -12,8 +12,8 @@ def suma(x, y,z):
 # Parameters: x, y
 # Returns: x - y
 """
-def resta(x, y):
-    return x - y
+def resta(x, y, z):
+    return x - y - z
 
 """
 # Test
