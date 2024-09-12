@@ -14,7 +14,7 @@ def suma(x, y):
 """
 
 def resta(x, y):
-    return x - y
+    return x * y
 
 """
 # Test
