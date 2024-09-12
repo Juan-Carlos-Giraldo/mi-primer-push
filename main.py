@@ -5,8 +5,8 @@
 # Params: x, y (int)
 # Return: x + y (int)
 """
-def suma(x, y):
-    return x + y
+def suma(x, y,z):
+    return x + y + z
 """
 # A simple function that subtracts two numbers
 # Parameters: x, y
