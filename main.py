@@ -12,6 +12,11 @@ def suma(x, y):
 # Parameters: x, y
 # Returns: x - y
 """
+<<<<<<< HEAD
+=======
+def resta(x, y):
+    return x / y
+>>>>>>> CU-resta
 
 def resta(x, y):
     return x * y
