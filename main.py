@@ -6,7 +6,7 @@ def suma(x, y):
 # Returns: x - y
 """
 def resta(x, y):
-    return x - y
+    return x / y
 
 resultado = suma(2, 3)
 print(resultado)
