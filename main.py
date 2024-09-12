@@ -12,6 +12,7 @@ def suma(x, y):
 # Parameters: x, y
 # Returns: x - y
 """
+
 def resta(x, y):
     return x - y
 
